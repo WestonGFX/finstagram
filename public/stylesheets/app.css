@@ -1,0 +1,39 @@
+header {
+    background-color: #def3f9;
+    color: darkslategray;
+}
+
+body {
+    background-color:#def3f9;
+}
+
+main{
+    background-color: white;
+    padding: 16px;
+}
+
+.finstagram-post {
+    margin-bottom: 48px;
+}
+
+.finstagram-post .user-info img{
+    border-radius: 50%;
+}
+
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+a.photo{
+    transition: padding 0.5s;
+}
+
+a.photo img{
+    border-radius: 2%;
+}
+
+a.photo:hover{
+    padding: 10px;
+}
+
+p{color:rrgb(1, 32, 68)

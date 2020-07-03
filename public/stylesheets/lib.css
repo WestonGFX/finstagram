@@ -96,8 +96,8 @@ main {
 }
 
 .actions button.user-like {
-  color: #FF2600;
-  border-color: #FF2600;
+  color: mediumpurple;
+  border-color: mediumpurple;
 }
 
 .actions .comment-count {
