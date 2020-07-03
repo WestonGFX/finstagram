@@ -5,7 +5,7 @@
 body, input {
   font-family: 'Roboto Condensed', sans-serif;
   margin: 0;
-  color: #244751;
+  color: #181818;
 }
 
 a {
@@ -56,8 +56,9 @@ main {
 .button {
   padding: .5em;
   background-color: white;
-  border: solid 1px #244751;
+  border: solid 1px grey;
   display: inline-block;
+  border-radius: 10%;
 }
 
 .finstagram-post > * {
