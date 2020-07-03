@@ -66,7 +66,7 @@ main {
 
 .user-info {
   display: flex;
-  align-items: baseline;
+  align-items: center
 }
 
 .user-info img {
@@ -97,8 +97,9 @@ main {
 }
 
 .actions button.user-like {
-  color: mediumpurple;
-  border-color: mediumpurple;
+  color: grey;
+  border-color: grey;
+  border-radius: 10%;
 }
 
 .actions .comment-count {
