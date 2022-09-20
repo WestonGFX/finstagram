@@ -1,11 +1,5 @@
 # finstagram
 
-Go here for my live web app: https://stormy-waters-50580.herokuapp.com/
-
-
-
-------For Developers-------
-
 Welcome to the Lighthouse labs web fundamentals project! 
 
 We suggest our students use [GitPod](https://www.gitpod.io/) to work on this project in a cloud-based editor. This way they do not have to set up their machines with Ruby, Sinatra, and the various other web libraries that we will be covering with this project.
