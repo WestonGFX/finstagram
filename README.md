@@ -1,6 +1,6 @@
-# finstagram
+ # finstagram
 
-<img width="220" alt="Finstagram GUI" src="https://github.com/user-attachments/assets/3e9b04ac-1dff-42f9-b470-ee7875cc8bef">
+<img width="220" alt="Finstagram GUI" src="https://github.com/user-attachments/assets/3e9b04ac-1dff-42f9-b470-ee7875cc8bef"><br>
 Original GUI preview, working deployment is currently down. Working on redeployment.
 
 
