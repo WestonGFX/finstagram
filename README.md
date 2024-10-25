@@ -1,5 +1,13 @@
 # finstagram
 
+<img width="220" alt="Finstagram GUI" src="https://github.com/user-attachments/assets/3e9b04ac-1dff-42f9-b470-ee7875cc8bef">
+Original GUI preview, working deployment is currently down. Working on redeployment.
+
+
+This is a fully working clone of Instagram in the theme of fins, for people who like fins n stuff. It was created using GitPod and coded in Ruby on rails, and given a custom CSS styling and HTML front-end. This was the final project in my lighthouse labs course.
+
+
+--------------------------------------------------------
 Welcome to the Lighthouse labs web fundamentals project! 
 
 We suggest our students use [GitPod](https://www.gitpod.io/) to work on this project in a cloud-based editor. This way they do not have to set up their machines with Ruby, Sinatra, and the various other web libraries that we will be covering with this project.
